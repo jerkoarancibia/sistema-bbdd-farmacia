@@ -22,6 +22,6 @@ Este sistema modela la gestión de una farmacia, incluyendo:
 ## Objetivo
 Diseñar e implementar una base de datos funcional para la gestión de una farmacia.
 
-## 👨‍💻 Autor
+## Autor
 Jerko Arancibia  
-Ingeniero en Informática
+Ingeniero en Informátic
